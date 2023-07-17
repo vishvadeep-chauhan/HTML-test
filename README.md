@@ -1,12 +1,20 @@
 html stand for ?
-<a href="./Question_no_1/index.html"></a>
+<p>
+    <b>Question_no_1</b> <a href="././Question_no_1/index.html">Click here to view Folder</a>
 
+</p>
 why html is used for ?
-<a href="./Question_no_2/index.html"></a>
+<p>
+    <b>Question_no_2</b> <a href="./Question_no_2/index.html">Click here to view Folder</a>
+
+</p>
 
 
 write a program to create a table of 10 students with emilio id, name, designation , make sure the border is collapsed ?
-<a href="./Question_no_3/index.html"></a>
+<p>
+    <b>Question_no_3</b> <a href="./Question_no_3/index.html">Click here to view Folder</a>
+
+</p>
 
 create a form with name , last name , password , email and submit button ?
 <p>
